@@ -1,8 +1,23 @@
+name: VizCab
+favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.8978723
+typography_spectrum: 0.41309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 1
+  brandColors: []
   brandStrength: 0.9577619
+  lightness: 1
   saturation: 0.7680851
   rhythmicContrast: 0.178297
-name: VizCab
+purpose: []
