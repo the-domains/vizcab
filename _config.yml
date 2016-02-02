@@ -1,0 +1,14 @@
+layout_spectrum: 0.3056293
+typography_spectrum: 0.9904773
+color:
+  lightness: 1
+  brandStrength: 0.9577619
+  saturation: 0.7680851
+  rhythmicContrast: 0.178297
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: VizCab
